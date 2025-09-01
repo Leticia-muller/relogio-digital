@@ -1,0 +1,42 @@
+body{
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+body{
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(59, 25, 104);
+color: rgb(60, 50, 85);
+font-family: "Oswald", cursive;
+font-optical-sizing: auto;
+font-style: normal;
+}
+
+section{
+    text-align: center;
+    background-color: rgb(144, 144, 228);
+    padding: 70px;
+    border-radius: 15px;
+}
+h1{
+    font-size: 80px;
+    margin-top: -20px;
+}
+span{
+    font-size: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    gap: 100px;
+    padding: 30px;
+}
+
+.horario{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
