@@ -30,7 +30,11 @@ span{
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
     gap: 100px;
-    padding: 30px;
+    padding: 20px;
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+    font-variant-numeric: tabular-nums; 
 }
 
 .horario{
